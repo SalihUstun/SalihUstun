@@ -4,7 +4,7 @@
 
 <div align="center">
   <p align="center">
-    Merhaba, ben <b>Muhammed Salih Üstün</b>. 22 yaşındayım ve Sinop'ta yaşıyorum. 
+    Merhaba, ben <b>Muhammed Salih Üstün</b>. 23 yaşındayım ve Sinop'ta yaşıyorum. 
     <br>
     Fırat Üniversitesi'nde <b>Bilgisayar Mühendisliği</b> bölümünde 4. sınıf öğrencisiyim.
     <br><br>
