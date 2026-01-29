@@ -4,17 +4,18 @@
 </div>
 
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&size=28&pause=1000&center=true&vCenter=true&width=600&height=70&lines=Merhaba!+Ben+Muhammed+Salih+Üstün;Bilgisayar+Mühendisliği+Öğrencisi;.NET+ve+React+Geliştirici;Mikroservis+ve+LLM+Meraklısı" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&size=28&pause=1000&center=true&vCenter=true&width=600&height=70&lines=Merhaba!+Ben+Muhammed+Salih+Üstün;Bilgisayar+Mühendisliği+Öğrencisi;.NET+ve+React+Geliştirici;Full+Stack+Developer" alt="Typing SVG" />
 </h1>
 
 <div align="center">
   <h3>🚀 Hakkımda</h3>
-  <p>
-    Merhaba! Ben <b>Muhammed Salih Üstün</b>. Fırat Üniversitesi Bilgisayar Mühendisliği 4. sınıf öğrencisiyim. 
+  <p align="center">
+    Merhaba, ben <b>Muhammed Salih Üstün</b>. 22 yaşındayım ve Sinop'ta yaşıyorum. 
+    <br>
+    Fırat Üniversitesi'nde <b>Bilgisayar Mühendisliği</b> bölümünde 4. sınıf öğrencisiyim.
     <br><br>
-    Özellikle <b>.NET</b> ekosistemi ve <b>React</b> teknolojileriyle ölçeklenebilir web ve mobil uygulamalar geliştiriyorum. 
-    <b>TÜBİTAK</b> ve <b>Intellium</b> bünyesindeki çalışmalarımda; <b>Mikroservis mimarileri</b>, <b>AOP teknikleri</b>, <b>LLM tabanlı metin analizi</b> ve <b>Semantik Arama</b> konularında tecrübe edindim.
-    Şu anda katmanlı mimarilerde REST API geliştirme ve modern frontend çözümleri üzerine yoğunlaşıyorum.
+    Güncel teknolojiler hakkında bilgi edinmeyi ve öğrendiklerimi pratikte uygulamayı seviyorum. 
+    Akademik yolculuğum boyunca bilgisayar bilimi prensiplerinde sağlam bir temel oluşturmak ve pratik becerilerimi geliştirmek için çalışıyorum.
   </p>
 </div>
 
@@ -40,13 +41,16 @@
   <img src="https://skillicons.dev/icons?i=cs,dotnet,java,python,js,react,html,css,git,postgres,linux,docker,postman" />
 </p>
 
-<div align="center">
-  <br>
-  🌱 Şu anda <b>LLM Entegrasyonları ve Dağıtık Sistemler</b> üzerine çalışıyorum. <br>
-  💻 Projelerimde <b>C#, .NET Core, React Native, JWT ve Entity Framework</b> teknolojilerini aktif kullanıyorum.
-</div>
-
 <hr/>
+
+<h2 align="center">⚡ GitHub İstatistiklerim</h2>
+
+<div align="center">
+  <img width="400" src="https://github-readme-stats.vercel.app/api?username=SalihUstun&theme=transparent&count_private=true&show_icons=true&locale=tr" alt="GitHub Stats" />
+  <img width="400" src="https://github-readme-streak-stats.herokuapp.com/?user=SalihUstun&theme=transparent&hide_border=true&locale=tr" alt="Streak Stats" />
+  <br/>
+  <img width="350" src="https://github-readme-stats.vercel.app/api/top-langs?username=SalihUstun&theme=transparent&layout=donut&hide=jupyter%20notebook&langs_count=8&show_icons=true&locale=tr" alt="Top Languages" />
+</div>
 
 <h2 align="center">🐍 Katkı Geçmişim</h2>
 <div align="center">
