@@ -1,11 +1,6 @@
 <div align="center">
-  <p>Ziyaretçi Sayısı</p>
-  <img src="https://profile-counter.glitch.me/SalihUstun/count.svg" alt="Ziyaretçi Sayısı" />
-</div>
-
-<h1 align="center">
   <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&size=28&pause=1000&center=true&vCenter=true&width=600&height=70&lines=Merhaba!+Ben+Muhammed+Salih+Üstün;Bilgisayar+Mühendisliği+Öğrencisi;.NET+ve+React+Geliştirici;Full+Stack+Developer" alt="Typing SVG" />
-</h1>
+</div>
 
 <div align="center">
   <h3>🚀 Hakkımda</h3>
@@ -45,18 +40,21 @@
 
 <h2 align="center">⚡ GitHub İstatistiklerim</h2>
 
-<div align="center">
-  <img width="400" src="https://github-readme-stats.vercel.app/api?username=SalihUstun&theme=transparent&count_private=true&show_icons=true&locale=tr" alt="GitHub Stats" />
-  <img width="400" src="https://github-readme-streak-stats.herokuapp.com/?user=SalihUstun&theme=transparent&hide_border=true&locale=tr" alt="Streak Stats" />
-  <br/>
-  <img width="350" src="https://github-readme-stats.vercel.app/api/top-langs?username=SalihUstun&theme=transparent&layout=donut&hide=jupyter%20notebook&langs_count=8&show_icons=true&locale=tr" alt="Top Languages" />
-</div>
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=SalihUstun&theme=transparent&count_private=true&show_icons=true&locale=tr" alt="SalihUstun" />
+</p>
+<p align="center">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=SalihUstun&theme=transparent&hide_border=true&locale=tr" alt="SalihUstun" />
+</p>
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=SalihUstun&theme=transparent&layout=donut&hide=jupyter%20notebook&langs_count=8&show_icons=true&locale=tr" alt="SalihUstun" />
+</p>
 
 <h2 align="center">🐍 Katkı Geçmişim</h2>
+<p align="center">
+  <img src="https://github.com/SalihUstun/SalihUstun/blob/output/github-contribution-grid-snake.svg" alt="Snake animation" />
+</p>
+
 <div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/SalihUstun/SalihUstun/output/github-contribution-grid-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/SalihUstun/SalihUstun/output/github-contribution-grid-snake.svg" />
-    <img alt="github-snake" src="https://raw.githubusercontent.com/SalihUstun/SalihUstun/output/github-contribution-grid-snake.svg" />
-  </picture>
+  <img src="https://profile-counter.glitch.me/SalihUstun/count.svg" alt="Ziyaretçi Sayısı" />
 </div>
