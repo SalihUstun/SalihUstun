@@ -3,7 +3,6 @@
 </div>
 
 <div align="center">
-  <h3>🚀 Hakkımda</h3>
   <p align="center">
     Merhaba, ben <b>Muhammed Salih Üstün</b>. 22 yaşındayım ve Sinop'ta yaşıyorum. 
     <br>
@@ -28,33 +27,14 @@
   </a>
 </div>
 
-<hr/>
-
-<h2 align="center">🛠️ Yetenekler ve Teknolojiler</h2>
+<br/>
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=cs,dotnet,java,python,js,react,html,css,git,postgres,linux,docker,postman" />
 </p>
 
-<hr/>
-
-<h2 align="center">⚡ GitHub İstatistiklerim</h2>
-
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=SalihUstun&theme=transparent&count_private=true&show_icons=true&locale=tr" alt="SalihUstun" />
-</p>
-<p align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=SalihUstun&theme=transparent&hide_border=true&locale=tr" alt="SalihUstun" />
-</p>
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=SalihUstun&theme=transparent&layout=donut&hide=jupyter%20notebook&langs_count=8&show_icons=true&locale=tr" alt="SalihUstun" />
-</p>
-
-<h2 align="center">🐍 Katkı Geçmişim</h2>
-<p align="center">
-  <img src="https://github.com/SalihUstun/SalihUstun/blob/output/github-contribution-grid-snake.svg" alt="Snake animation" />
-</p>
+<br/>
 
 <div align="center">
-  <img src="https://profile-counter.glitch.me/SalihUstun/count.svg" alt="Ziyaretçi Sayısı" />
+  <img src="https://raw.githubusercontent.com/SalihUstun/SalihUstun/output/snake.svg" alt="Snake animation" />
 </div>
